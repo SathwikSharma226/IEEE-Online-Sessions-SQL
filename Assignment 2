@@ -1,0 +1,20 @@
+1.	Create a database with name 'SchoolLibrary'
+
+2.	Create table named books that has BookID(as primary key and auto increment), Department, BookTitle, Length(Number of sheets) and BookAuthor as fields with relevant data types
+
+3.	Insert 30 records to the above table with relevant information needed.
+
+4.	Write quires for all of the above steps
+
+5.	Show all the table contents 
+
+6.	Show the number of fields in the table through writing quries
+
+7.	After adding records to the table write relevant quires to 
+        a)	Select books that have number of pages less that 200
+        b)	Select books that have number of pages less that 500
+        c)	Select books that are from mathematics Dept.
+        d)	Select books that are from ECE Dept.
+        e)	Select books that are from CSE Dept.
+
+
